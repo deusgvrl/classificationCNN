@@ -1,7 +1,7 @@
 # 📌 Coffee Bean Maturity Classification using CNN
 ## Klasifikasi Tingkat Kematangan Biji Kopi Arabika berdasarkan Parameter Warna (RGB dan HSV) menggunakan CNN
 
-This project aims to classify the maturity level of Arabica coffee beans using a **Convolutional Neural Network (CNN)**. The classification is based on **RGB and HSV color parameters**, following the Agtron coffee color scale.
+This project aims to classify the maturity level of Arabica coffee beans using a **Convolutional Neural Network (CNN)**. The classification is based on **RGB and HSV color parameters**. The dataset is taken from a local roastery in Kare Village, Madiun, East Java.
 
 ## 📂 Dataset
 - **Total images**: 1200 segmented coffee bean images  
@@ -31,9 +31,11 @@ This project aims to classify the maturity level of Arabica coffee beans using a
 @thesis{Tataming_2025,
   author      = {Tataming, Amadeus Gavriel},
   year        = {2025},
-  title       = {Klasifikasi Tingkat Kematangan Biji Kopi Arabika berdasarkan Parameter Warna (RGB dan HSV) menggunakan CNN},
+  title       = {Klasifikasi Tingkat Kematangan Biji Kopi Arabika berdasarkan Parameter Warna (RGB dan HSV) menggunakan Convolutional Neural Network},
+  title_english = {Classification of Arabica Coffee Bean Maturity Levels Based on Color Parameters (RGB And HSV) using Convolutional Neural Network},
   institution = {Universitas Airlangga},
-  type        = {Undergraduate thesis}
+  type        = {Undergraduate thesis},
+  language    = {Indonesian}
 }
 ```
 ## 📩 Contact
