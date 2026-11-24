@@ -40,6 +40,6 @@ This project aims to classify the maturity level of Arabica coffee beans using a
 ```
 ## 📩 Contact
 📧 **Email**: amadeustataming@gmail.com
-🔗 **LinkedIn**: [Amadeus Gavriel Tataming](https://linkedin.com/in/amadeusgaviel)
+🔗 **LinkedIn**: [Amadeus Gavriel Tataming](https://linkedin.com/in/amadeusgavriel)
 
 
